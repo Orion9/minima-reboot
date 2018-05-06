@@ -15,9 +15,7 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-- about.md
 - posts.md
-- github.md
 
 footer_icons:
 - username: orion9
